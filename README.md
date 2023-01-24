@@ -1,11 +1,23 @@
-## Hello world! I'am Botlock
+<div>
+        <h1>Hello World !</h1>
+        <div>
+            <p>
+                🔭 Today I'm a front-end developer
+                <br/>
+                🌱  Studying React Js
+                <br/>
+                👯  I want to collaborate on codes in different language
+                <br/>
+                💬 When Quitting Isn't an Option, Success Is Inevitable
+                <br/>
+                📫 How to reach me: 
+            </p>
+        </div>
+  </div>
+     
+       
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+   
+
 
